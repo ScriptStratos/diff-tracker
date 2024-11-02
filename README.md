@@ -1,4 +1,5 @@
 > # diff-tracker
+# Refactored tracker - 2026-03-11
 > 
 > [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ScriptStratos/diff-tracker) 
 > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
